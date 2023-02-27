@@ -50,7 +50,7 @@ export const cart: CartItem[] = [
   {
     product: {
       description: "Short Product Description1",
-      id: "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
+      id: "1",
       price: 24,
       title: "ProductOne",
     },
@@ -59,7 +59,7 @@ export const cart: CartItem[] = [
   {
     product: {
       description: "Short Product Description7",
-      id: "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
+      id: "2",
       price: 15,
       title: "ProductName",
     },
